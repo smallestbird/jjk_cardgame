@@ -2,14 +2,15 @@
 Download and extract contents of the game.
 Make sure you have java installed on your system, at least version 22 or later, here is the latest version (24): https://www.oracle.com/java/technologies/downloads/#jdk24-windows.
 Simply run the .bat file, and a command prompt window should open. DO NOT DOUBLE CLICK THE .EXE, this will not properly load in the braille ascii characters.
-To make sure all ascii art loads in correctly, right click on the window of the cmd, click on "properties", then go to the fonts tab. From there, change it to any cascadia variant, this only has to be done once. 
+To make sure all ascii art loads in correctly, right click on the window of the cmd, click on "properties", then go to the fonts tab. From there, change it to any cascadia variant(if it is not there, try MS gothic or NSimSun), this only has to be done once. 
 Make sure not to move the .bat file or .exe file outside the directory it was installed in.
 
 # for users who want to play the game (linux or mac)
 
 Download and extract contents of the game.
 Make sure you have java installed on your system, at least version 22 or later, here is the latest version (24): https://www.oracle.com/java/technologies/downloads/#jdk24-linux
-Open up a terminal, and copy this command into it (ensure you are in the right directory. Eg: assuming the jar is in downloads, use this command: "cd ~/Downlods" before running the following command): "java -Dfile.encoding=UTF-8 -jar cardgame.jar"
+Open up a terminal, and copy this command into it (ensure you are in the right directory. Eg: assuming the jar is in downloads, use this command: "cd ~/Downlods" before running the following command): "java -Dfile.encoding=UTF-8 -jar cardgame.jar". 
+You might need to mess around with the fonts in order to get the braille characters to show up correctly.
 
 
 
