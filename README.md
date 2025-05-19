@@ -13,7 +13,7 @@ open up a terminal, and copy this command into it (ensuring you are in the right
 
 
 
-#for people who want to contribute/edit source code
+# for people who want to contribute/edit source code
 this was made using jdk-22 in eclipse, if you use VS code or any other editor, ignore the bin folder, .classpath and .project files
 all java files are in the /src directory, all ascii arts are just utf-8 no BOM txt files located in /pictures
 the .exe was compiled using launch4j v3.50, download link: "https://sourceforge.net/projects/launch4j/files/launch4j-3/3.50/". 
