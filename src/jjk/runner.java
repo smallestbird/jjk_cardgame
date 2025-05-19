@@ -1,11 +1,10 @@
 package jjk;
 
+	
 import java.util.*;
 public class runner {
 	public static void main(String[] args) {
-		
-		
-	
+		//runner class, player chooses.
 		Scanner input=new Scanner(System.in);
 		System.out.println("do you want to play against a bot, or with a friend(max 2 players in one game)\n\n");
 		System.out.println("\n\npress 1 for A.I, press 2 to fight a friend\n\n");
@@ -33,6 +32,5 @@ public class runner {
 		
 		
 	}
-	
-	
+
 }
