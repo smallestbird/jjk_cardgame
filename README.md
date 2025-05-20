@@ -14,7 +14,7 @@ Open up a terminal, and copy this command into it (ensure you are in the right d
 You might need to mess around with the fonts in order to get the braille characters to show up correctly.
 Finally, if you want, you can delete the bin and src folder, the config.xml, .project and .classpath files, and the .exe and .bat files, just make sure you keep the pictures folder.
 
-
+# Quick sidenote for players, your anti virus might detect the file as unsafe since it is not signed, just click the "more info" button and then click "run anyway".
 
 # for people who want to contribute/edit source code
 This was made using jdk-22 in eclipse, if you use VS code or any other editor, ignore the bin folder, .classpath and .project files.
